@@ -1,0 +1,12 @@
+__pycache__/
+config/
+test/
+.venv/
+db/
+*.pyc
+*.psd
+*.log
+*.db
+*.json
+*.sqlite
+config.py
